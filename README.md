@@ -1,0 +1,2 @@
+# JavaScriptShit
+educational nothing
